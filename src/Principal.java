@@ -5,12 +5,12 @@ public class Principal {
 	public static void main(String[] args) {
 		Pizza pizza1 = new Pizza();
 		Pizza pizza2 = new Pizza();
-		Pizza pizza3 = new Pizza();
-		
+		Pizza pizza3 = new Pizza();	
 		// Cria 3 pizzas com ingredientes diferentes
 //		pizza1.adicionaIngrediente("Rucula");
 //		pizza1.adicionaIngrediente("4 Queijos");
 //		pizza1.adicionaIngrediente("Milho");
+
 		
 		pizza1.adicionaIngrediente("Tomate");
 		pizza1.adicionaIngrediente("Atum");
